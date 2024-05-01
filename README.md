@@ -18,7 +18,7 @@ Desafio desenvolvido por <a href="https://www.frontendmentor.io">frontendmentor.
 <br>
 
 <p align="center">
-  <img alt="projeto qr code component" src=".github/preview.jpg" width="100%">
+  <img alt="projeto qr code component" src="preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -44,4 +44,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com esforço por Rodrigo :wave:
+
 # FEM-qrcode
